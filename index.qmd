@@ -1,11 +1,16 @@
 ---
-title: "web"
+title: "Jun Noh"
+about:
+  template: trestles
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jun-noh-323255249/
+    - text: GitHub
+      href: https://github.com/j-noh
+    - text: Email
+      href: mailto:junjin034@gmail.com
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## Education
