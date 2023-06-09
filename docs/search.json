@@ -39,14 +39,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of my favorite projects I am currently working on or have finished."
+    "text": "Here are some of my favorite projects"
   },
   {
     "objectID": "projects.html#data-dashboard",
     "href": "projects.html#data-dashboard",
     "title": "Projects",
     "section": "Data Dashboard",
-    "text": "Data Dashboard\n<iframe src=\"https://oal8w0-jun-noh.shinyapps.io/Data_Dashboard/\" width=\"800\" height=\"600\"></iframe>"
+    "text": "Data Dashboard\nhttps://oal8w0-jun-noh.shinyapps.io/Data_Dashboard/"
   },
   {
     "objectID": "projects.html#machine-learning-mtg",
@@ -60,6 +60,6 @@
     "href": "projects.html#how-bitter-is-beer-kaggle",
     "title": "Projects",
     "section": "How Bitter is Beer (kaggle)",
-    "text": "How Bitter is Beer (kaggle)"
+    "text": "How Bitter is Beer (kaggle)\nhttps://github.com/j-noh/lab-4-j-noh/blob/main/DATA_301_Lab_4_Jun_Noh.ipynb"
   }
 ]

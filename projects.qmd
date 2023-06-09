@@ -6,6 +6,10 @@ Here are some of my favorite projects
 
 ## Data Dashboard
 
+<https://oal8w0-jun-noh.shinyapps.io/Data_Dashboard/>
+
 ## Machine Learning MTG
 
 ## How Bitter is Beer (kaggle)
+
+<https://github.com/j-noh/lab-4-j-noh/blob/main/DATA_301_Lab_4_Jun_Noh.ipynb>
