@@ -1,3 +1,11 @@
 ---
 title: "Projects"
 ---
+
+Here are some of my favorite projects
+
+## Data Dashboard
+
+## Machine Learning MTG
+
+## How Bitter is Beer (kaggle)

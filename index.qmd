@@ -1,7 +1,10 @@
 ---
 title: "Jun Noh"
+image: img1.jpg 
 about:
   template: trestles
+  image-shape: rectangle
+  image-width: 23em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/jun-noh-323255249/
@@ -11,6 +14,14 @@ about:
       href: mailto:junjin034@gmail.com
 ---
 
-## About Me
+## Welcome!
+
+Welcome to my page! My name is Jun Noh and this is my website for all things statistics.
 
 ## Education
+
+BS in Statistics with a minor in Data Science (2025) \|
+
+California Polytechnic State University, San Luis Obispo
+
+## Work Experience
